@@ -68,4 +68,17 @@ associated with test statistic values **as or more extreme** than the one we obs
 
 We compare the p value associated with our test statistic to some significance level, α, typically **0.05** or
 **0.01**, to determine whether we reject or fail to reject the null. If **p < α**, we decide that there is
-sufficientstatistical evidence for rejecting ***H~0~***.
+sufficient statistical evidence for rejecting ***H~0~***.
+
+How do we calculate the p value?
+
+1. Specify a test statistic (e.g., the mean)
+
+2. Specify our null distribution
+
+3. Calculate the tail probability, i.e., the probability of obtaining a statistic (e.g., a mean) as or more
+extreme than was observed assuming that null distribution
+
+# Testing Sample Means: One Sample Z and T Tests
+
+
