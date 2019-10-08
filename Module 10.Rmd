@@ -66,3 +66,6 @@ the expected population mean) and the **standard error of the sample statistic**
 of the smallness of the p value. The p value effectively represents the area under the sampling distribution
 associated with test statistic values **as or more extreme** than the one we observed.
 
+We compare the p value associated with our test statistic to some significance level, α, typically **0.05** or
+**0.01**, to determine whether we reject or fail to reject the null. If **p < α**, we decide that there is
+sufficientstatistical evidence for rejecting ***H~0~***.
