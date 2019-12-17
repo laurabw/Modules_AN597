@@ -1,0 +1,215 @@
+---
+title: "AN597: End-of-Semester Self Evaluation"
+author: "Laura Brubaker-Wittman"
+date: "12/17/2019"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>Working it</b></font></center><br>
+
+<center><p><img src="https://media.giphy.com/media/fdCLFPKZf6guGYdePq/giphy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+While I had started to teach myself very simple things in **R**, this was the first time I got to really dive in. It was a **STEEP** learning curve! The first homework left me in tears, but each module, each homework, things came together more and more. I am leaving the class feeling proud of what I have accomplished and learned and look forward to continuing my **R** learning journey!
+
+</center>
+
+***
+
+### What were you asked to do?
+
+***
+
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.
+
+***
+
+1. ***Regular attendance and class participation.***
+
+    No html links for this one; please see answer to what I accomplished regarding this task below.
+
+
+2. ***On-time completion of assigned Modules prior to seminar meetings.***
+
+    Though I went through each Module on my own before class, there were several that I made R markdown files for as well. See links (directly below) and more information in the accomplisment section below
+    
+    (https://github.com/laurabw/Modules_AN597/blob/master/Module%2010.Rmd) - hadn't knitted this one yet, so not in html
+    (https://github.com/laurabw/AN597-Week-3-laurabw/blob/master/Module_8.html)
+    (https://github.com/laurabw/AN597_Modules_laurabw/blob/master/AN597_Module_18_laurabw.html)
+    (https://github.com/laurabw/AN597_Modules_laurabw/blob/master/AN597_Module_19_laurabw.Rmd) - hadn't knitted this one yet, so not in html
+    (https://github.com/laurabw/module3-repo/blob/master/module3-rmarkdown.Rmd) - hadn't knitted this one yet, so not in html
+    
+    
+3. ***Programming homework sets associated with each Module, due Thursday at 8:00 pm to your assigned peer commentary partner(s).***
+
+    Homework #1 Original and Final Code: 
+    (https://github.com/laurabw/AN597-Week-2-laurabw/blob/master/laurabw_OriginalHomeworkCode_01.html)
+    (https://github.com/laurabw/AN597-Week-2-laurabw/blob/master/laurabw_FinalHomeworkCode_01.Rmd)
+    Homework #2 Original and Final Code:
+    (https://github.com/laurabw/AN597-Week-3-laurabw/blob/master/laurabw_OriginalHomeworkCode_02.html)
+    (https://github.com/laurabw/AN597-Week-3-laurabw/blob/master/laurabw_FinallHomeworkCode_02.html)
+    Homework #3 Original and Final Code (Zombies):
+    (https://github.com/laurabw/AN597_Zombies_laurabw/blob/master/laurabw_OriginalHomeworkCode_03.html)
+    (https://github.com/laurabw/AN597_Zombies_laurabw/blob/master/laurabw_FinalHomeworkCode_03.Rmd)
+    Homework #4 Original and Final Code (Malfunction):
+    (https://github.com/laurabw/AN597_Malfunction_laurabw/blob/master/laurabw_OriginalHomeworkCode_04.html)
+    (https://github.com/laurabw/AN597_Malfunction_laurabw/blob/master/laurabw_FinalHomeworkCode_04.Rmd)
+    Homework #5 Orignal and Final Code (Boots):
+    (https://github.com/laurabw/AN597_Boots_laurabw/blob/master/laurabw_OriginalHomeworkCode_05.html)
+    (https://github.com/laurabw/AN597_Boots_laurabw/blob/master/laurabw_FinalHomeworkCode_05.Rmd)
+
+4. ***Respectful Peer Commentary on homework coding, to be submitted to me by 5:00pm Sunday.***
+
+    Did not have html files for some of these, but put in Rmd links where appropriate:
+    Homework #1 Peer Commentary:
+    (https://github.com/cmgagnon/AN597-Week-2-cmgagnon/blob/master/laurabw_PeerCommentary_cmgagnon_01)
+    Homework #2 Peer Commentary:
+    (https://github.com/MelZarate/AN597_Week-3_mazarate/blob/master/mazarate_PeerCommentary_laurabw_02.Rmd)
+    (https://github.com/cmgagnon/AN597_Week_3_cmgagnon/blob/master/cmgagnon_Originalhomeworkcode_laurabw_02.Rmd)
+    Homework #3 Peer Commentary (Zombies):
+    (https://github.com/gpelose/AN597_Zombies_gpelose/blob/master/gpelose_PeerCommentary_laurabw_03.Rmd)
+    (https://github.com/feiyawang1207/AN597_Zombies_feiyaw/blob/master/feiyaw_PeerCommentary_laurabw_03.Rmd)
+    Homework #4 Peer Commentary (Malfunction):
+    (https://github.com/langley1/AN597_Malfunction_langley1/blob/master/langley1_PeerCommentary_04_laurabw.Rmd)
+    (https://github.com/cavega36/AN597_Malfunction_cavega/blob/master/cavega_PeerCommentary_04_laurabw.Rmd)
+    Homework #5 Peer Commentary (Boots):
+    (https://github.com/ishratc/AN597_Boots_ishratc/blob/master/ishratc_PeerCommentary_05_lbw.Rmd)
+    
+
+5. ***One individual Analysis Replication Assignment based on a published paper with a publicly available dataset, chosen in consultation with the instructor.***
+
+    https://github.com/laurabw/laurabw-data-replication-assignment/blob/master/Replication-Assignment.html
+
+6. ***One group presentation and written R vignette demonstrating the use of a particular statistical method chosen in consultation with the instructor (past examples available in the Modules).***
+
+    https://github.com/laurabw/AN597_GroupProject_LLMC/blob/master/AN597_GroupProject_LLMC_Final2.html
+
+7. ***A final Self Evaluation written by you arguing for the grade you have earned through your progress and the quality of your work in the class.***
+
+    That's what this is!
+
+***
+
+### What did you accomplish?
+
+***
+
+Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.
+
+***
+
+1. ***Regular attendance and class participation.***
+
+    I attended every class except one, due to a medical concern. I did go through the Module for that week myselff though and kept up with the reading. In class, I would come prepared by at the very least having gone through the module. For several modules I made my own R markdown file, cutting and pasting text and code and putting in my own annotations and code where necessary and helpful. I asked questions during class often.
+
+
+2. ***On-time completion of assigned Modules prior to seminar meetings.***
+
+    Before each class, I would go through the Module and look at the appropriate readings. As mentioned above, I also had R Markdown documents for several of the Modules, and plan to go back and do all of them on my own time as a way to have References I can go back to later on.
+    
+3. ***Programming homework sets associated with each Module, due Thursday at 8:00 pm to your assigned peer commentary partner(s).***
+
+    All homework original code and final code incorporating comments from peers was turned in on time.
+
+4. ***Respectful Peer Commentary on homework coding, to be submitted to me by 5:00pm Sunday.***
+
+    All peer commentary was turned in on time. Above, where there is only one peer commentary, these were weeks where I was only assigned one partner, or as a group we decided to each do commentary for one other person in the group instead of both.
+
+5. ***One individual Analysis Replication Assignment based on a published paper with a publicly available dataset, chosen in consultation with the instructor.***
+
+    Article was sent to instructor by deadline and was approved. Completed the assignment as directed and discussed questions regarding the assignment with instructor.
+
+6. ***One group presentation and written R vignette demonstrating the use of a particular statistical method chosen in consultation with the instructor (past examples available in the Modules).***
+
+    Completed this as a group of four. My main jobs were to help decide on a statistical method, help each group member with finding code and data, looking over code when completed, writing the introduction for the Module, putting together the Rmd file for the overall project and making sure it looked good and knitted correctly, and helping to present the module.
+
+7. ***A final Self Evaluation written by you arguing for the grade you have earned through your progress and the quality of your work in the class.***
+
+    That's this!
+
+
+***
+
+### How well did you accomplish them?
+
+***
+
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?
+
+***
+
+Overall, I feel pretty good about accomplishing these tasks. I gave a lot of time to the homeworks, peer commentaries, and the group assignment, as well as the replication assignment. I feel that what I did best was improve my overall skills in R and learned to thoroughly annotate my work for myself and others, as well as giving respectful but helpful commentary where I could. I did the least well on finishing Rmd files for each module for my own reference, though I plan to finish those to have to look at for later projects!
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+This may be in relation to previous knowledge, or in relation to future/planned work.
+
+***
+
+Most importantly, I have learned how to be collaborative on projects through the peer commentary and group project. Usually, I would not want to share my work out of worry that I have done something wrong, but this class helped me gain confidence and see mistakes as places to grow, with the help of others. I also learned several new statistical analyses and am already thinking on how they can be applied to my current and future projects, and how I could actual do that analysis in R!
+
+### What did you learn from all this?
+
+***
+
+Please name at least three things you feel you learned in this course.
+
+***
+
+Soooooo much! In addition to what I mentioned above:
+    
+1.  How to make a nice looking document with good annotation I can render into an html file.
+2.  Recognizing what kind of data I have and what kind of analysis I can do with it depending on the contstraints of the data (i.e. nonparametric, small sample size) and the questions I want to ask
+3.  How to CODE! I never thought this would be something I would learn how to do. It is awesome! And being able to actual know WHAT to google to find answers to problems as they come up.
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+The peer commentaries were quite helpful and the Group Project really pushed me to articulate ideas, concerns, and fix mistakes collaboratively. I think this helped with my learning **so much** and I was amazed how much my peers taught me during the process.
+
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+As I already mentioned, I now have confidence in my abilities to code, to make mistakes and then learn how to fix them, and to perform analyses and produce documents of my findings in ways that make me proud.
+    
+If I had to do something differently, it would be doing a full self-overview of statistics before starting. I had not done much for years and this really exacerbated my coding learning curve. I feel if I was more confident in my statistica understanding from the start, I could have progressed even faster.
+
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+
+***
+
+<br><center> A </center><br>
+
+I can honestly say I would feel comfortable giving myself an A. I completed all tasks in a timely manner and participated in class and in assignments fully. Above all though, I can say that my learning in R and statistical analysis and project design have literally jumped by leaps and bounds this semester, both due to the excellent content of this course and my willingness to put in the time and effort to learn.
+
+
+***
+
